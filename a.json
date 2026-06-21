@@ -1,7 +1,7 @@
 [
     {
         "name": "夜夙的服务器",
-        "serverAddress": "http://8.148.236.164:6969",
+        "serverAddress": "http://1.2.3.4:6969",
         "newPort": "6970"
     },
     {
